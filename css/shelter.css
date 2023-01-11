@@ -1,16 +1,15 @@
 .column {
   width: 25%;
   float: center;
-  
-  
-  
   margin: 0 auto 0 auto;
+  color: white;
 }
 
 img {
   display: block;
   margin: auto;
   width: 50%;
+  border: 5px solid black;
 }
 
 p {
